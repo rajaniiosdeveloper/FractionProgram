@@ -26,6 +26,7 @@ Example runs (where '?' represents the command prompt):
 ? 1&3/4 - 2 = -1/4
 
 ===========================================
+
 Solution:
 
 #### Using CLI version
