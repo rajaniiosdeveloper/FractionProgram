@@ -40,4 +40,4 @@ then
 ```python
 checkout https://github.com/rajaniiosdeveloper/FractionProgram/tree/main/OneIdentityiOSApp
 ```
-[![sample](https://github.com/rajaniiosdeveloper/FractionProgram/blob/main/OneIdentityiOSApp/sampleImage.png =400x250)]
+![sample screen](https://github.com/rajaniiosdeveloper/FractionProgram/blob/main/OneIdentityiOSApp/sampleImage.png?raw=true)
