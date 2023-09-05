@@ -27,7 +27,7 @@ Example runs (where '?' represents the command prompt):
 
 
 #### Using CLI version
-```bash
+```python
 Step-1 checkout FractionTestIO.swift
 
 Step-2 swiftc FractionTestIO.swift
