@@ -28,16 +28,17 @@ Example runs (where '?' represents the command prompt):
 
 #### Using CLI version
 ```bash
-swiftc FractionTestIO.swift
+Step-1 checkout FractionTestIO.swift
 
-then
+Step-2 swiftc FractionTestIO.swift
 
-./FractionTestIO
+Step-3 ./FractionTestIO
 ```
 
 #### Using iOS app
 
 ```python
-checkout https://github.com/rajaniiosdeveloper/FractionProgram/tree/main/OneIdentityiOSApp
+Step-1 checkout https://github.com/rajaniiosdeveloper/FractionProgram/tree/main/OneIdentityiOSApp
+Step-2 run project OneIdentityProject.xcodeproj
 ```
-![sample screen](https://github.com/rajaniiosdeveloper/FractionProgram/blob/main/OneIdentityiOSApp/sampleImage.png?raw=true)
+![sample screen](https://github.com/rajaniiosdeveloper/FractionProgram/blob/main/OneIdentityiOSApp/sampleImage.png?raw=true=200)
